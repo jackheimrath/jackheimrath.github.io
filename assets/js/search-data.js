@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Education, teaching, and industry experience. Replace /assets/pdf/CV.pdf with your own file to enable the download button.",
+          description: "Education and work experience.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
