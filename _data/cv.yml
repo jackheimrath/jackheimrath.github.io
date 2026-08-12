@@ -39,37 +39,6 @@
     #   description:
     #     - "[Add thesis title or focus, if applicable]"
 
-- title: Teaching Experience
-  type: time_table
-  contents:
-    - title: "MTHE 227 (Vector Analysis)"
-      institution: Teaching Fellow, Department of Mathematics and Statistics, Queen's University
-      year: "Fall 2026/27"
-    - title: "MTHE 227 (Vector Analysis)"
-      institution: Teaching Fellow, Department of Mathematics and Statistics, Queen's University
-      year: "Fall 2025/26"
-    - title: "MATH 120 (Differential and Integral Calculus)"
-      institution: Teaching Assistant, Department of Mathematics and Statistics, Queen's University
-      year: "Winter 2024/25"
-    - title: "MATH 328 (Real Analysis)"
-      institution: Teaching Assistant, Department of Mathematics and Statistics, Queen's University
-      year: "Winter 2024/25"
-    - title: "MATH 429 (Functional Analysis and Quantum Mechanics)"
-      institution: Teaching Assistant, Department of Mathematics and Statistics, Queen's University
-      year: "Fall 2024/25"
-    - title: "MATH 326 (Functions of a Complex Variable)"
-      institution: Teaching Assistant, Department of Mathematics and Statistics, Queen's University
-      year: "Fall 2024/25"
-    - title: "MATH 120 (Differential and Integral Calculus)"
-      institution: Teaching Assistant, Department of Mathematics and Statistics, Queen's University
-      year: "Winter 2023/24"
-    - title: "MTHE 237 (Differential Equations for Engineering Science)"
-      institution: Teaching Assistant, Department of Mathematics and Statistics, Queen's University
-      year: "Fall 2023/24"
-    #  description:
-    #    - "Head instructor for the"
-    # See the full course list on the Teaching page: /teaching/
-
 - title: Industry Experience
   type: time_table
   contents:
