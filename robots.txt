@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://jackheimrath.github.io/sitemap.xml
