@@ -35,6 +35,31 @@ ninja.data = [{
           description: "A one- or two-sentence description of the course content and level.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/example-course/";
+            },},{id: "teachings-math-120-differential-and-integral-calculus",
+          title: 'MATH 120: Differential and Integral Calculus',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/math120-winter-2023/";
+            },},{id: "teachings-math-120-differential-and-integral-calculus",
+          title: 'MATH 120: Differential and Integral Calculus',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/math120-winter-2024/";
+            },},{id: "teachings-math-326-functions-of-a-complex-variable",
+          title: 'MATH 326: Functions of a Complex Variable',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/math326-fall-2024/";
+            },},{id: "teachings-math-328-real-analysis",
+          title: 'MATH 328: Real Analysis',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/math328-winter-2024/";
+            },},{id: "teachings-math-429-functional-analysis-and-quantum-mechanics",
+          title: 'MATH 429: Functional Analysis and Quantum Mechanics',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/math429-fall-2024/";
             },},{id: "teachings-mthe-227-vector-analysis",
           title: 'MTHE 227: Vector Analysis',
           description: "",
@@ -45,6 +70,11 @@ ninja.data = [{
           description: "",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/mthe227-fall-2026/";
+            },},{id: "teachings-mthe-237-differential-equations-for-engineering-science",
+          title: 'MTHE 237: Differential Equations for Engineering Science',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/mthe237-fall-2023/";
             },},{
         id: 'social-cv',
         title: 'CV',
