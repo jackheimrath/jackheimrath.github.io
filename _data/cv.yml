@@ -52,9 +52,9 @@
 - title: Industry Experience
   type: time_table
   contents:
-    - title: "[Add job title]"
-      institution: "[Add company name]"
-      year: "[Add years]"
+    - title: "Advanced Math Consultant"
+      institution: "Wolfram|Alpha"
+      year: "2020 - 2026"
       description:
         - "[Add a brief description of your role and impact]"
 
@@ -76,4 +76,6 @@
 - title: Skills
   type: list
   contents:
-    - "[Add languages/tools, e.g. LaTeX, Python, SageMath]"
+    - "English - native speaker"
+    - "Polish - native speaker"
+    - "Wolfram Language - expert proficiency"
