@@ -35,6 +35,16 @@ ninja.data = [{
           description: "A one- or two-sentence description of the course content and level.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/example-course/";
+            },},{id: "teachings-mthe-227-vector-analysis",
+          title: 'MTHE 227: Vector Analysis',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/mthe227-fall-2025/";
+            },},{id: "teachings-mthe-227-vector-analysis",
+          title: 'MTHE 227: Vector Analysis',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/mthe227-fall-2026/";
             },},{
         id: 'social-cv',
         title: 'CV',
