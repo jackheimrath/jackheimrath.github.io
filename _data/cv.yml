@@ -1,0 +1,58 @@
+# This file drives the /cv/ page (see _layouts/cv.liquid).
+# Each top-level entry is a card on the page. Supported `type`s: map, list,
+# nested_list, time_table, list_groups. Edit freely — add, remove, or
+# reorder sections to match your real CV.
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Mathematics
+      institution: Queen's University, Kingston, ON, Canada
+      year: 20XX - present
+      description:
+        - "Research area: Probabilistic Number Theory"
+        - Supervisor — [Add supervisor name]
+    # - title: "[Add your previous degree, e.g. M.Sc. Mathematics]"
+    #   institution: "[Add institution]"
+    #   year: "[Add years]"
+    #   description:
+    #     - "[Add thesis title or focus, if applicable]"
+
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: "[Add course name, e.g. Introduction to Calculus]"
+      institution: Teaching Assistant, Department of Mathematics and Statistics, Queen's University
+      year: "[Term Year]"
+      description:
+        - "[Add responsibilities, e.g. led tutorials, graded assignments, held office hours]"
+    # See the full course list on the Teaching page: /teaching/
+
+- title: Industry Experience
+  type: time_table
+  contents:
+    - title: "[Add job title]"
+      institution: "[Add company name]"
+      year: "[Add years]"
+      description:
+        - "[Add a brief description of your role and impact]"
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: "[Add year]"
+      items:
+        - "[Add award or scholarship name]"
+
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Probabilistic Number Theory
+      items:
+        - "[Add a specific sub-topic, e.g. distribution of arithmetic functions]"
+        - "[Add another sub-topic]"
+
+- title: Skills
+  type: list
+  contents:
+    - "[Add languages/tools, e.g. LaTeX, Python, SageMath]"

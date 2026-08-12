@@ -1,0 +1,7 @@
+# Maps a venue `abbr` (used in _bibliography/papers.bib entries) to an optional
+# URL and badge color, shown next to matching publications.
+#
+# Example:
+# "arXiv":
+#   url: https://arxiv.org
+#   color: "#b31b1b"

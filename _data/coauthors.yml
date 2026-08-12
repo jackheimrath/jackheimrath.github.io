@@ -1,0 +1,8 @@
+# Maps a BibTeX author last name (lowercase, as it appears in _bibliography/papers.bib)
+# to a list of name variants and a URL (e.g. their homepage). jekyll-scholar uses
+# this to turn matching author names into links on the publications page.
+#
+# Example:
+# "smith":
+#   - firstname: ["Jane", "J."]
+#     url: https://example.com/~jsmith
