@@ -33,4 +33,4 @@ I completed my BSc at King's College London and an MSc at the University of Camb
 
 Outside of research, I am a Teaching Fellow in the Department of Mathematics and Statistics — see the [Teaching](/teaching/) page for details. You can find my full CV [here](/cv/).
 
-Feel free to reach out by email 23dk4(at)queensu(dot)ca if you'd like to chat about my research or anything else.
+Feel free to reach out by email at 23dk4(at)queensu(dot)ca if you'd like to chat about my research or anything else.
