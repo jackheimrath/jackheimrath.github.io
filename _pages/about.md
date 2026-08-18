@@ -14,7 +14,7 @@ profile:
     <p>Department of Mathematics and Statistics</p>
     <p>Queen's University</p>
     <p>Kingston, ON, Canada</p>
-    <p>Your short description here.</p>
+  # <p>Your short description here.</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
