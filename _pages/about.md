@@ -31,6 +31,6 @@ associated arising in various settings of arithmetic interest. My work is superv
 
 I completed my BSc at King's College London and an MSc at the University of Cambridge. I then joined Wolfram\|Alpha, where I worked for six years while completing a second MSc at Rutgers University — Camden and the first three years of my PhD.
 
-Outside of research, I am a Teaching Fellow in the Department of Mathematics and Statistics — see the [Teaching](/teaching/) page for details. You can find my full CV [here](/cv/).
+Outside of research, I am a Teaching Fellow in the Department of Mathematics and Statistics — see the [teaching](/teaching/) page for details. You can find my full CV [here](/cv/).
 
 Feel free to reach out by email at 23dk4(at)queensu(dot)ca if you'd like to chat about my research or anything else.
