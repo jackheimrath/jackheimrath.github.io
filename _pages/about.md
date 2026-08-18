@@ -26,10 +26,11 @@ latest_posts:
   enabled: false
 ---
 
-I am a PhD candidate in the Department of Mathematics and Statistics at Queen's University, working in **probabilistic number theory**. My research uses probabilistic tools and models to study the behaviour of arithmetic functions and other number-theoretic objects.
+I am a PhD candidate in the Department of Mathematics and Statistics at Queen's University, working in **probabilistic number theory**. In my research I use analytic, sieve-theoretic, and p-adic tools to study limiting distributions of arithmetic functions. I am also interested in the average behavior of singular series
+associated arising in various settings of arithmetic interest. My work is supervised by Professor Francesco Cellarosi and Professor Brad Rodgers.
 
-<!-- Add a paragraph or two here about your specific research questions, advisor, and academic background (e.g. where you did your undergraduate/master's studies). -->
+I completed my BSc at King's College London and an MSc at the University of Cambridge. I then joined Wolfram|Alpha, where I worked for six years while completing a second MSc at Rutgers University — Camden and the first three years of my PhD.
 
-Outside of research, I [TA / have taught] courses in the Department of Mathematics and Statistics — see the [Teaching](/teaching/) page for details. You can find my CV [here](/cv/).
+Outside of research, I am a Teaching Fellow in the Department of Mathematics and Statistics — see the [Teaching](/teaching/) page for details. You can find my full CV [here](/cv/).
 
-Feel free to reach out by [email](mailto:j.heimrath@queensu.ca) if you'd like to chat about my research or anything else.
+Feel free to reach out by email (23dk4(at)queensu(dot)ca) if you'd like to chat about my research or anything else.
