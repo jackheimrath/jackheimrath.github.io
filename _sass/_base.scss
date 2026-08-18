@@ -199,9 +199,10 @@ ul.task-list input[type="checkbox"] {
   width: 100%;
 
   .tagline {
-    margin-bottom: 5px;
+    margin-bottom: 0;
     font-family: monospace;
     font-style: italic;
+    font-size: 0.85rem;
 
     p {
       margin: 0;
