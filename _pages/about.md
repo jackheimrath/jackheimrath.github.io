@@ -8,8 +8,9 @@ profile:
   align: right
   image: math_in_tree.jpeg # placeholder — replace with a real photo (e.g. prof_pic.jpg) and update this filename
   image_circular: false # crops the image to make it circular
-  more_info: >
+  tagline: >
     <p>Mathematics is best done sitting in a tree.</p>
+  more_info: >
     <p>Department of Mathematics and Statistics</p>
     <p>Queen's University</p>
     <p>Kingston, ON, Canada</p>
