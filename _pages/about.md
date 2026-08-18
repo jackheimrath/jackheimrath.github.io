@@ -26,8 +26,7 @@ latest_posts:
   enabled: false
 ---
 
-I am a PhD candidate in the Department of Mathematics and Statistics at Queen's University, working in **probabilistic number theory**. In my research I use analytic, sieve-theoretic, and p-adic tools to study limiting distributions of arithmetic functions. I am also interested in the average behavior of singular series
-associated arising in various settings of arithmetic interest. My work is supervised by Professor Francesco Cellarosi and Professor Brad Rodgers.
+I am a PhD candidate in the Department of Mathematics and Statistics at Queen's University, working in **probabilistic number theory**. In my research I use analytic, sieve-theoretic, and p-adic tools to study limiting distributions of arithmetic functions. I am also interested in the average behavior of singular series arising in various settings of arithmetic interest. My work is supervised by Professor Francesco Cellarosi and Professor Brad Rodgers.
 
 I completed my BSc at King's College London and an MSc at the University of Cambridge. I then joined Wolfram\|Alpha, where I worked for six years while completing a second MSc at Rutgers University — Camden and the first three years of my PhD.
 
