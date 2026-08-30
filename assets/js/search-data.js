@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
+        },{id: "nav-nt-seminar",
+          title: "NT seminar",
+          description: "The Number Theory Seminar at Queen&#39;s University.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/nt-seminar/";
+          },
         },{id: "nav-cv",
           title: "cv",
           description: "Education and work experience.",
